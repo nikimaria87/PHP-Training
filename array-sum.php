@@ -4,6 +4,9 @@
  * Complete the simpleArraySum function below.
  */
 function simpleArraySum($ar) {
+   // Given Inputs
+    $n = 6;
+    $ar = array(1 2 3 4 10 11);
     /*
      * Write your code here.
      */
