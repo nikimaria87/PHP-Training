@@ -12,7 +12,6 @@ function simpleArraySum($ar) {
      */
     $sum = 0;
     $count_array= count($ar);
-    $n = 6;
     for ($i=0; $i <= $count_array; $i++ )
     {
         $sum=$sum + $ar[$i];
